@@ -1,7 +1,12 @@
 def bubble_sort():
-    arr=[]
-    for i in range(10):
-        arr.append(input())
+    arr = []
+
+    try:
+        for i in range(10):
+            arr.append(float(input()))
+    except ValueError:
+        print("only numbers are accepted as valid input.")
+
     print(arr)
 
 
