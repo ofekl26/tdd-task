@@ -10,7 +10,7 @@
 
 -completed fourth requirement for bmi
 
--final version of bmi was pushed
+*-final version of bmi was pushed*
 
 ________________________________
 
@@ -21,3 +21,7 @@ ________________________________
 -completed second requirement for bubble_sort
 
 -completed third requirement for bubble_sort
+
+-completed fourth requirement for bubble_sort
+
+*-final version of bubble_sort was pushed*
